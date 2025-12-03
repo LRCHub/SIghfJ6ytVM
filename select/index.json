@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "IN YOUR EYES",
+  "base_artist": "Snoh Aalegra",
+  "createdAt": "2025-12-03T08:28:00.780630Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Don't See Me in Your Eyes Anymore",
+      "artist": "Charlie Rich",
+      "has_synced": false,
+      "path": "select/01_I_Don't_See_Me_in_Your_Eyes_Anymore_Charlie_Rich.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I See The Want In Your Eyes",
+      "artist": "Conway Twitty",
+      "has_synced": true,
+      "path": "select/02_I_See_The_Want_In_Your_Eyes_Conway_Twitty.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Light In Your Eyes",
+      "artist": "LeAnn Rimes",
+      "has_synced": true,
+      "path": "select/03_The_Light_In_Your_Eyes_LeAnn_Rimes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Tears Are in Your Eyes",
+      "artist": "Yo La Tengo",
+      "has_synced": false,
+      "path": "select/04_Tears_Are_in_Your_Eyes_Yo_La_Tengo.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Angel in Your Eyes",
+      "artist": "LSD feat. Sia, Diplo & Labrinth",
+      "has_synced": true,
+      "path": "select/05_Angel_in_Your_Eyes_LSD_feat._Sia,_Diplo_&_Labrinth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Angel in Your Eyes",
+      "artist": "LSD",
+      "has_synced": true,
+      "path": "select/06_Angel_in_Your_Eyes_LSD.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dancing in Your Eyes",
+      "artist": "The Magnetic Fields",
+      "has_synced": true,
+      "path": "select/07_Dancing_in_Your_Eyes_The_Magnetic_Fields.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Look in Your Eyes",
+      "artist": "Maze",
+      "has_synced": false,
+      "path": "select/08_The_Look_in_Your_Eyes_Maze.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Look In Your Eyes",
+      "artist": "Maze featuring Frankie Beverly",
+      "has_synced": false,
+      "path": "select/09_The_Look_In_Your_Eyes_Maze_featuring_Frankie_Beverly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Story In Your Eyes",
+      "artist": "The Moody Blues",
+      "has_synced": true,
+      "path": "select/10_The_Story_In_Your_Eyes_The_Moody_Blues.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "You Lost the Starlight in Your Eyes",
+      "artist": "Hammock",
+      "has_synced": true,
+      "path": "select/11_You_Lost_the_Starlight_in_Your_Eyes_Hammock.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "4 the Tears in Your Eyes",
+      "artist": "Prince",
+      "has_synced": true,
+      "path": "select/12_4_the_Tears_in_Your_Eyes_Prince.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Happy Everafter In Your Eyes",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/13_Happy_Everafter_In_Your_Eyes_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Happy Everafter in Your Eyes",
+      "artist": "Ben Harper",
+      "has_synced": true,
+      "path": "select/14_Happy_Everafter_in_Your_Eyes_Ben_Harper.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I Can See It In Your Eyes",
+      "artist": "ILOVEMAKONNEN",
+      "has_synced": true,
+      "path": "select/15_I_Can_See_It_In_Your_Eyes_ILOVEMAKONNEN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "IN YOUR EYES",
+      "artist": "Snoh Aalegra",
+      "has_synced": false,
+      "path": "select/pl_01_IN_YOUR_EYES_Snoh_Aalegra.txt"
+    }
+  ]
+}
